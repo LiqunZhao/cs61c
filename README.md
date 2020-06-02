@@ -1,2 +1,3 @@
-# cs61c
-Self-study - cs61c
+# Great Ideas in Computer Architecture
+
+Spring 2020 version ([link](https://cs61c.org/sp20/))
